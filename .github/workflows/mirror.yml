@@ -1,5 +1,5 @@
 # .github/workflows/mirror.yml
-name: 
+name: 同步libnyanpasu/clash-nyanpasu
 
 on:
   schedule:
