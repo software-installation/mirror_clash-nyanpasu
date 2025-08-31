@@ -2,51 +2,51 @@
   "releases": {
     "129492351": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-08-31 01:56:24.800363"
+      "fully_synced_at": "2025-08-31 06:32:04.185607"
     },
     "129656435": {
       "tag_name": "updater",
-      "fully_synced_at": "2025-08-31 01:56:27.669647"
+      "fully_synced_at": "2025-08-31 06:32:06.490634"
     },
     "132804452": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-08-31 01:56:30.466893"
+      "fully_synced_at": "2025-08-31 06:32:09.076134"
     },
     "135012736": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-08-31 01:56:33.419339"
+      "fully_synced_at": "2025-08-31 06:32:11.716137"
     },
     "137847781": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-08-31 01:56:36.311571"
+      "fully_synced_at": "2025-08-31 06:32:14.258295"
     },
     "138916923": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-08-31 01:56:39.030765"
+      "fully_synced_at": "2025-08-31 06:32:16.435829"
     },
     "140494396": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-08-31 01:56:41.865580"
+      "fully_synced_at": "2025-08-31 06:32:18.987418"
     },
     "144536480": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-08-31 01:56:44.831416"
+      "fully_synced_at": "2025-08-31 06:32:21.665094"
     },
     "150235698": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-08-31 01:56:47.764410"
+      "fully_synced_at": "2025-08-31 06:32:24.046560"
     },
     "172635073": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-08-31 01:56:50.825599"
+      "fully_synced_at": "2025-08-31 06:32:26.443369"
     },
     "173977471": {
       "tag_name": "v1.6.1",
-      "fully_synced_at": "2025-08-31 01:56:53.852373"
+      "fully_synced_at": "2025-08-31 06:32:28.747382"
     },
     "129022090": {
       "tag_name": "pre-release",
-      "fully_synced_at": "2025-08-31 04:12:55.771526"
+      "fully_synced_at": "2025-08-31 07:36:19.175779"
     }
   },
   "assets": {
@@ -1420,8 +1420,8 @@
       "Clash.Nyanpasu.aarch64.app.tar.gz.sig_416": {
         "name": "Clash.Nyanpasu.aarch64.app.tar.gz.sig",
         "size": 416,
-        "updated_at": "2025-08-27T02:43:24+00:00",
-        "synced_at": "2025-08-27 02:43:24.373776"
+        "updated_at": "2025-08-31T07:07:09+00:00",
+        "synced_at": "2025-08-31 07:07:09.840381"
       },
       "Clash.Nyanpasu.x86_64.app.tar.gz_97784183": {
         "name": "Clash.Nyanpasu.x86_64.app.tar.gz",
@@ -10656,6 +10656,12 @@
         "size": 68196430,
         "updated_at": "2025-08-31T04:12:11+00:00",
         "synced_at": "2025-08-31 04:12:11.251837"
+      },
+      "Clash.Nyanpasu.aarch64.app.tar.gz_94769967": {
+        "name": "Clash.Nyanpasu.aarch64.app.tar.gz",
+        "size": 94769967,
+        "updated_at": "2025-08-31T07:07:01+00:00",
+        "synced_at": "2025-08-31 07:07:01.686642"
       }
     }
   },
