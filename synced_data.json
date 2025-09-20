@@ -2,51 +2,51 @@
   "releases": {
     "129492351": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-09-20 01:44:15.836706"
+      "fully_synced_at": "2025-09-20 06:31:33.556652"
     },
     "129656435": {
       "tag_name": "updater",
-      "fully_synced_at": "2025-09-20 01:44:17.521563"
+      "fully_synced_at": "2025-09-20 06:31:45.610948"
     },
     "132804452": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-09-20 01:44:19.211838"
+      "fully_synced_at": "2025-09-20 06:31:47.421576"
     },
     "135012736": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-09-20 01:44:21.160782"
+      "fully_synced_at": "2025-09-20 06:31:49.263406"
     },
     "137847781": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-09-20 01:44:22.843596"
+      "fully_synced_at": "2025-09-20 06:31:51.048731"
     },
     "138916923": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-09-20 01:44:24.790201"
+      "fully_synced_at": "2025-09-20 06:31:53.050602"
     },
     "140494396": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-09-20 01:44:26.915500"
+      "fully_synced_at": "2025-09-20 06:31:54.609390"
     },
     "144536480": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-09-20 01:44:28.866221"
+      "fully_synced_at": "2025-09-20 06:31:56.316981"
     },
     "150235698": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-09-20 01:44:30.477050"
+      "fully_synced_at": "2025-09-20 06:31:58.260032"
     },
     "172635073": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-09-20 01:44:32.187409"
+      "fully_synced_at": "2025-09-20 06:32:00.159495"
     },
     "173977471": {
       "tag_name": "v1.6.1",
-      "fully_synced_at": "2025-09-20 01:44:33.792427"
+      "fully_synced_at": "2025-09-20 06:32:01.917086"
     },
     "129022090": {
       "tag_name": "pre-release",
-      "fully_synced_at": "2025-09-20 05:09:21.586792"
+      "fully_synced_at": "2025-09-20 09:53:54.629695"
     }
   },
   "assets": {
@@ -182,26 +182,26 @@
       "update-nightly-fixed-webview-proxy.json_6486": {
         "name": "update-nightly-fixed-webview-proxy.json",
         "size": 6486,
-        "updated_at": "2025-09-19T18:32:02+00:00",
-        "synced_at": "2025-09-19 18:32:02.254101"
+        "updated_at": "2025-09-20T06:31:37+00:00",
+        "synced_at": "2025-09-20 06:31:37.525649"
       },
       "update-nightly-fixed-webview.json_6356": {
         "name": "update-nightly-fixed-webview.json",
         "size": 6356,
-        "updated_at": "2025-09-19T18:32:04+00:00",
-        "synced_at": "2025-09-19 18:32:05.042467"
+        "updated_at": "2025-09-20T06:31:40+00:00",
+        "synced_at": "2025-09-20 06:31:40.177360"
       },
       "update-nightly-proxy.json_6430": {
         "name": "update-nightly-proxy.json",
         "size": 6430,
-        "updated_at": "2025-09-19T18:32:07+00:00",
-        "synced_at": "2025-09-19 18:32:07.762105"
+        "updated_at": "2025-09-20T06:31:42+00:00",
+        "synced_at": "2025-09-20 06:31:42.807659"
       },
       "update-nightly.json_6300": {
         "name": "update-nightly.json",
         "size": 6300,
-        "updated_at": "2025-09-19T18:32:10+00:00",
-        "synced_at": "2025-09-19 18:32:10.476301"
+        "updated_at": "2025-09-20T06:31:45+00:00",
+        "synced_at": "2025-09-20 06:31:45.595425"
       },
       "update-proxy.json_7734": {
         "name": "update-proxy.json",
