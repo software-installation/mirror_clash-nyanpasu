@@ -2,51 +2,51 @@
   "releases": {
     "129492351": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-09-28 18:28:51.139966"
+      "fully_synced_at": "2025-09-29 01:51:29.574082"
     },
     "129656435": {
       "tag_name": "updater",
-      "fully_synced_at": "2025-09-28 18:28:52.762297"
+      "fully_synced_at": "2025-09-29 01:51:43.180530"
     },
     "132804452": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-09-28 18:28:54.420286"
+      "fully_synced_at": "2025-09-29 01:51:45.414432"
     },
     "135012736": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-09-28 18:28:56.191737"
+      "fully_synced_at": "2025-09-29 01:51:47.386805"
     },
     "137847781": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-09-28 18:28:58.103180"
+      "fully_synced_at": "2025-09-29 01:51:49.446851"
     },
     "138916923": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-09-28 18:28:59.813449"
+      "fully_synced_at": "2025-09-29 01:51:51.971839"
     },
     "140494396": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-09-28 18:29:01.517126"
+      "fully_synced_at": "2025-09-29 01:51:54.357145"
     },
     "144536480": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-09-28 18:29:03.163863"
+      "fully_synced_at": "2025-09-29 01:51:56.603382"
     },
     "150235698": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-09-28 18:29:05.060570"
+      "fully_synced_at": "2025-09-29 01:51:58.838784"
     },
     "172635073": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-09-28 18:29:07.041978"
+      "fully_synced_at": "2025-09-29 01:52:00.803991"
     },
     "173977471": {
       "tag_name": "v1.6.1",
-      "fully_synced_at": "2025-09-28 18:29:08.964382"
+      "fully_synced_at": "2025-09-29 01:52:03.068652"
     },
     "129022090": {
       "tag_name": "pre-release",
-      "fully_synced_at": "2025-09-28 21:49:44.873939"
+      "fully_synced_at": "2025-09-29 07:36:51.470705"
     }
   },
   "assets": {
@@ -182,26 +182,26 @@
       "update-nightly-fixed-webview-proxy.json_6486": {
         "name": "update-nightly-fixed-webview-proxy.json",
         "size": 6486,
-        "updated_at": "2025-09-28T01:57:20+00:00",
-        "synced_at": "2025-09-28 01:57:20.905157"
+        "updated_at": "2025-09-29T01:51:34+00:00",
+        "synced_at": "2025-09-29 01:51:34.576931"
       },
       "update-nightly-fixed-webview.json_6356": {
         "name": "update-nightly-fixed-webview.json",
         "size": 6356,
-        "updated_at": "2025-09-28T01:57:23+00:00",
-        "synced_at": "2025-09-28 01:57:23.688294"
+        "updated_at": "2025-09-29T01:51:37+00:00",
+        "synced_at": "2025-09-29 01:51:37.427189"
       },
       "update-nightly-proxy.json_6430": {
         "name": "update-nightly-proxy.json",
         "size": 6430,
-        "updated_at": "2025-09-28T01:57:26+00:00",
-        "synced_at": "2025-09-28 01:57:26.501201"
+        "updated_at": "2025-09-29T01:51:40+00:00",
+        "synced_at": "2025-09-29 01:51:40.292427"
       },
       "update-nightly.json_6300": {
         "name": "update-nightly.json",
         "size": 6300,
-        "updated_at": "2025-09-28T01:57:29+00:00",
-        "synced_at": "2025-09-28 01:57:29.293740"
+        "updated_at": "2025-09-29T01:51:42+00:00",
+        "synced_at": "2025-09-29 01:51:43.162235"
       },
       "update-proxy.json_7734": {
         "name": "update-proxy.json",
@@ -1420,8 +1420,8 @@
       "Clash.Nyanpasu.aarch64.app.tar.gz.sig_416": {
         "name": "Clash.Nyanpasu.aarch64.app.tar.gz.sig",
         "size": 416,
-        "updated_at": "2025-09-28T02:49:21+00:00",
-        "synced_at": "2025-09-28 02:49:22.148108"
+        "updated_at": "2025-09-29T03:15:10+00:00",
+        "synced_at": "2025-09-29 03:15:10.173573"
       },
       "Clash.Nyanpasu.x86_64.app.tar.gz_97784183": {
         "name": "Clash.Nyanpasu.x86_64.app.tar.gz",
@@ -1432,8 +1432,8 @@
       "Clash.Nyanpasu.x86_64.app.tar.gz.sig_416": {
         "name": "Clash.Nyanpasu.x86_64.app.tar.gz.sig",
         "size": 416,
-        "updated_at": "2025-09-28T02:49:43+00:00",
-        "synced_at": "2025-09-28 02:49:43.334034"
+        "updated_at": "2025-09-29T03:15:32+00:00",
+        "synced_at": "2025-09-29 03:15:32.773565"
       },
       "Clash.Nyanpasu_2.0.0-alpha+557cbce_aarch64.dmg_91809465": {
         "name": "Clash.Nyanpasu_2.0.0-alpha+557cbce_aarch64.dmg",
@@ -1600,8 +1600,8 @@
       "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.nsis.zip.sig_436": {
         "name": "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.nsis.zip.sig",
         "size": 436,
-        "updated_at": "2025-09-28T05:09:54+00:00",
-        "synced_at": "2025-09-28 05:09:54.564762"
+        "updated_at": "2025-09-29T07:01:44+00:00",
+        "synced_at": "2025-09-29 07:01:44.991499"
       },
       "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.exe_256394809": {
         "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.exe",
@@ -1618,8 +1618,8 @@
       "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.nsis.zip.sig_432": {
         "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.nsis.zip.sig",
         "size": 432,
-        "updated_at": "2025-09-28T05:18:55+00:00",
-        "synced_at": "2025-09-28 05:18:55.901352"
+        "updated_at": "2025-09-29T07:16:58+00:00",
+        "synced_at": "2025-09-29 07:16:58.927629"
       },
       "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.exe_236308201": {
         "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.exe",
@@ -1636,8 +1636,8 @@
       "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.nsis.zip.sig_432": {
         "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.nsis.zip.sig",
         "size": 432,
-        "updated_at": "2025-09-28T05:20:16+00:00",
-        "synced_at": "2025-09-28 05:20:16.892085"
+        "updated_at": "2025-09-29T07:18:26+00:00",
+        "synced_at": "2025-09-29 07:18:26.454709"
       },
       "Clash.Nyanpasu_2.0.0_x64-setup.exe_69264597": {
         "name": "Clash.Nyanpasu_2.0.0_x64-setup.exe",
@@ -1654,8 +1654,8 @@
       "Clash.Nyanpasu_2.0.0_x64-setup.nsis.zip.sig_432": {
         "name": "Clash.Nyanpasu_2.0.0_x64-setup.nsis.zip.sig",
         "size": 432,
-        "updated_at": "2025-09-28T05:29:00+00:00",
-        "synced_at": "2025-09-28 05:29:00.420327"
+        "updated_at": "2025-09-29T07:33:26+00:00",
+        "synced_at": "2025-09-29 07:33:26.473129"
       },
       "Clash.Nyanpasu_2.0.0_x86-setup.exe_67501178": {
         "name": "Clash.Nyanpasu_2.0.0_x86-setup.exe",
@@ -1672,8 +1672,8 @@
       "Clash.Nyanpasu_2.0.0_x86-setup.nsis.zip.sig_432": {
         "name": "Clash.Nyanpasu_2.0.0_x86-setup.nsis.zip.sig",
         "size": 432,
-        "updated_at": "2025-09-28T05:30:01+00:00",
-        "synced_at": "2025-09-28 05:30:01.657720"
+        "updated_at": "2025-09-29T07:34:34+00:00",
+        "synced_at": "2025-09-29 07:34:34.509797"
       },
       "latest.json_795": {
         "name": "latest.json",
@@ -13146,6 +13146,78 @@
         "size": 68609310,
         "updated_at": "2025-09-28T05:29:43+00:00",
         "synced_at": "2025-09-28 05:29:43.830512"
+      },
+      "Clash.Nyanpasu.aarch64.app.tar.gz_95312360": {
+        "name": "Clash.Nyanpasu.aarch64.app.tar.gz",
+        "size": 95312360,
+        "updated_at": "2025-09-29T03:15:02+00:00",
+        "synced_at": "2025-09-29 03:15:02.535851"
+      },
+      "Clash.Nyanpasu.x86_64.app.tar.gz_99575240": {
+        "name": "Clash.Nyanpasu.x86_64.app.tar.gz",
+        "size": 99575240,
+        "updated_at": "2025-09-29T03:15:24+00:00",
+        "synced_at": "2025-09-29 03:15:24.545443"
+      },
+      "Clash.Nyanpasu_2.0.0_arm64-setup.exe_61331912": {
+        "name": "Clash.Nyanpasu_2.0.0_arm64-setup.exe",
+        "size": 61331912,
+        "updated_at": "2025-09-29T06:57:40+00:00",
+        "synced_at": "2025-09-29 06:57:40.260487"
+      },
+      "Clash.Nyanpasu_2.0.0_arm64-setup.nsis.zip_61332082": {
+        "name": "Clash.Nyanpasu_2.0.0_arm64-setup.nsis.zip",
+        "size": 61332082,
+        "updated_at": "2025-09-29T06:58:02+00:00",
+        "synced_at": "2025-09-29 06:58:03.024482"
+      },
+      "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.exe_237901545": {
+        "name": "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.exe",
+        "size": 237901545,
+        "updated_at": "2025-09-29T07:00:50+00:00",
+        "synced_at": "2025-09-29 07:00:50.911832"
+      },
+      "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.nsis.zip_237901715": {
+        "name": "Clash.Nyanpasu_2.0.0_fixed-webview-arm64-setup.nsis.zip",
+        "size": 237901715,
+        "updated_at": "2025-09-29T07:01:26+00:00",
+        "synced_at": "2025-09-29 07:01:26.633492"
+      },
+      "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.nsis.zip_257558112": {
+        "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x64-setup.nsis.zip",
+        "size": 257558112,
+        "updated_at": "2025-09-29T07:16:40+00:00",
+        "synced_at": "2025-09-29 07:16:40.426488"
+      },
+      "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.exe_237414338": {
+        "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.exe",
+        "size": 237414338,
+        "updated_at": "2025-09-29T07:17:32+00:00",
+        "synced_at": "2025-09-29 07:17:32.699476"
+      },
+      "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.nsis.zip_237414504": {
+        "name": "Clash.Nyanpasu_2.0.0_fixed-webview-x86-setup.nsis.zip",
+        "size": 237414504,
+        "updated_at": "2025-09-29T07:18:06+00:00",
+        "synced_at": "2025-09-29 07:18:07.148979"
+      },
+      "Clash.Nyanpasu_2.0.0_x64-setup.exe_70529337": {
+        "name": "Clash.Nyanpasu_2.0.0_x64-setup.exe",
+        "size": 70529337,
+        "updated_at": "2025-09-29T07:18:49+00:00",
+        "synced_at": "2025-09-29 07:18:49.912256"
+      },
+      "Clash.Nyanpasu_2.0.0_x86-setup.exe_68621872": {
+        "name": "Clash.Nyanpasu_2.0.0_x86-setup.exe",
+        "size": 68621872,
+        "updated_at": "2025-09-29T07:33:50+00:00",
+        "synced_at": "2025-09-29 07:33:51.157358"
+      },
+      "Clash.Nyanpasu_2.0.0_x86-setup.nsis.zip_68622038": {
+        "name": "Clash.Nyanpasu_2.0.0_x86-setup.nsis.zip",
+        "size": 68622038,
+        "updated_at": "2025-09-29T07:34:14+00:00",
+        "synced_at": "2025-09-29 07:34:14.857339"
       }
     }
   },
